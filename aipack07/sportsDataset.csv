@@ -1,15 +1,3 @@
-Outlook,Temperature,Humidity,Wind,Play
-Sunny,Hot,High,Weak,No
-Sunny,Hot,High,Strong,No
-Overcast,Hot,High,Weak,Yes
-Rain,Mild,High,Weak,Yes
-Rain,Cool,Normal,Weak,Yes
-Rain,Cool,Normal,Strong,No
-Overcast,Cool,Normal,Strong,Yes
-Sunny,Mild,High,Weak,No
-Sunny,Cool,Normal,Weak,Yes
-Rain,Mild,Normal,Weak,Yes
-Sunny,Mild,Normal,Strong,Yes
-Overcast,Mild,High,Strong,Yes
-Overcast,Hot,Normal,Weak,Yes
-Rain,Mild,High,Strong,No
+version https://git-lfs.github.com/spec/v1
+oid sha256:29952aeadfa174f8c4ae58f8c5902a26853bae5b61fa3bde050b36e817a6002c
+size 428
